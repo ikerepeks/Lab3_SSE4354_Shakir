@@ -1,3 +1,11 @@
-# LabSSE4354_StudentMarks
-Enterprise Application Lab Exercise by Shakir 193908 </br>
-Have login and signup into the MySQL then produce Average score for the student
+# Enterprise Application JSP Practical Lab Exercise
+
+**Functionalities**
+
+1. Register and Login
+
+2. Print out current student mark
+
+3. Change student current mark
+
+Documentation and Design will be in the documentation folder
